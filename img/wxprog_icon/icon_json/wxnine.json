@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "英语备考",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E8%80%83%E8%AF%95.png"
+    },
+    {
+        "id": 2,
+        "name": "好词好句",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/669945_achievement_certificate_quality_guarantee.png"
+    },
+    {
+        "id": 3,
+        "name": "随身听",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E9%9F%B3%E4%B9%90%E7%A3%81%E5%B8%A6.png"
+    },
+    {
+        "id": 4,
+        "name": "真题词组",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.png"
+    },
+    {
+        "id": 5,
+        "name": "词根词缀",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/1-206.png"
+    },
+    {
+        "id": 6,
+        "name": "特殊变形",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E5%A4%9A%E8%AF%AD%E7%A7%8D%E6%94%AF%E6%8C%81.png"
+    },
+    {
+        "id": 7,
+        "name": "例句收藏",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E6%94%B6%E8%97%8F.png"
+    },
+    {
+        "id": 8,
+        "name": "考研写作",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/16@4x.png"
+    },
+    {
+        "id": 9,
+        "name": "四六级备考",
+        "icon": "https://cdn.jsdelivr.net/gh/wiceee/myimg/img/%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%9F%A5%E8%AF%A2.png"
+    }
+]
